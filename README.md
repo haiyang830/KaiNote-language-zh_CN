@@ -1,5 +1,5 @@
-# Kainote-language-zh_CN
-Kainote的中文语言文件
+# KaiNote-language-zh_CN
+KaiNote的中文语言文件
 
 将 zh_CN.mo 放入 Locale 文件夹内
 或 
